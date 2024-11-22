@@ -24,6 +24,11 @@ Github Repo: https://github.com/tseep/estimating-hank-nn
 
 # Create a virtual environment and install the packages
 
+After cloning the repo
+```bash
+git clone https://github.com/QingyuanFang/KMR22_JHUML_20241122.git
+```
+
 **Mac**
 
 ```bash
