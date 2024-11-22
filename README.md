@@ -68,3 +68,6 @@ tqdm
 # To proceed
 
 Open solution_QY.ipynb in your favorite code editor, choose ./venv as the kernel, and you are ready to go!
+
+# Reference
+Kase, Hanno, Leonardo Melosi, and Matthias Rottner. Estimating nonlinear heterogeneous agents models with neural networks. Centre for Economic Policy Research, 2022.
